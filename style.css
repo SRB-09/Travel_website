@@ -38,7 +38,7 @@ header .overlay .menu{
     font-size: 26px;
     display: none;
 }
-@media (max-width: 460px){
+@media (max-width: 768px){
     header .overlay .top .nav{
         position: absolute;
         top: -200px;
