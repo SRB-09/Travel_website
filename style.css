@@ -9,7 +9,7 @@
 header{
     height: 100vh;
     position: relative;
-    background: url(header background.png)lightgray 50% / cover no-repeat;
+    background: url(headerbackground.png)lightgray 50% / cover no-repeat;
     /* background-repeat: no-repeat;
     background-size: cover; */
 }
